@@ -1,4 +1,5 @@
-fullName = "Sanzith Alam ";
-age ="25"
-x= null;
-console.log(age);
+let fullName = "Sanzith Alam ";
+let age ="25"
+let x= null;
+let y=undefined;
+console.log(x);
