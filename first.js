@@ -51,3 +51,9 @@
 //  }else{
 //   console.log(num, "is Not a numtiple nmber 5");
 //  }
+
+// loop
+
+for (let i=1; i<=5; i++){
+  console.log("i = ", i);
+}
