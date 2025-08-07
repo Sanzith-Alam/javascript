@@ -8,7 +8,7 @@
 
 //Conditional Statement
 
-let age = 25;
+// let age = 25;
 
 // let mode = "dark";
 // let color;
@@ -26,3 +26,11 @@ let age = 25;
 // if (age < 18) {
 //   console.log("you can not vote");
 // }
+
+
+let num = 15;
+ if (num%2 == 0){
+ console.log(num, "is even") 
+ }else{
+  console.log(num, "is odd")
+ }
