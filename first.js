@@ -54,6 +54,15 @@
 
 // loop
 
-for (let i=1; i<=5; i++){
-  console.log("i = ", i);
+// for (let i=1; i<=5; i++){
+//   console.log("i = ", i);
+// }
+
+// string
+
+let obj = {
+  name: "sanjid",
+  age: 20,
 }
+let output = `my name is ${obj.name} and my age ${obj.age}`
+console.log(output);
